@@ -1,0 +1,6 @@
+harrypotter1 j.k.rowling 222 10 1997
+harrypotter2 j.k.rowling 123 60 2000
+harrypotter3 j.k.rowling 122 20 2002
+harrypotter4 j.k.rowling 232 10 2006
+butterfly james 102 10 2003
+ricko yankel 123 322 1990
